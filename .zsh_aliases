@@ -1,0 +1,4 @@
+alias ls='ls --color'
+alias ll='ls --color -lha'
+alias vim='nvim'
+alias nvim='nvim'
